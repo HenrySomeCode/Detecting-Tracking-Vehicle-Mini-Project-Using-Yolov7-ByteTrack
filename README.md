@@ -13,7 +13,7 @@ So I have to download Anaconda and then make a Python 3.10 that contains Pytorch
 
 Anyway this project references this repo [theos-ai](https://github.com/theos-ai/easy-yolov7), but I have changed some things for my personal purpose. 
 
-And if you're Vietnamese, you can listen to my representation of this project to understand what I have changed and have a clear thinking about my project. 
+And if you're Vietnamese, you can listen to my [representation](https://youtu.be/qhKtN_SmRlc) of this project to understand what I have changed and have a clear thinking about my project. 
 
 I recommend you to hear this since it will save you a lot of time to get my project and also can understand the pros & cons of this project provided by both Master Tuan Linh & TA. 
 
